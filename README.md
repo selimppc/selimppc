@@ -45,31 +45,21 @@ You can find me here 👇
 <div align="center">
 
   <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-  <img src="https://img.shields.io/badge/-Markdown-05128B?logo=markdown&logoColor=F3F7FA&style=for-the-badge&logoWidth=30" alt="Markdown">
-  <br>
-  <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Lighthouse-FB750B?logo=lighthouse&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Lighthouse">
-  <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
+  <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
+  <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
+
 </div>
 
 ### I have also worked with
 <div align="center">
 
   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
+
 </div>
 
-### Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
-  <img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
-  <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
-  <img src="https://img.shields.io/badge/-Next.js-FADDC6?logo=next.js&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Next.js">
-</div>
 
 <br> 
 
