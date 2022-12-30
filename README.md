@@ -1,4 +1,3 @@
-![SRBanner](https://avatars.githubusercontent.com/u/7763876?s=40&v=4)
 
 # Hi, I'm Selim Reza <img src="https://avatars.githubusercontent.com/u/7763876?v=4" width="35px">
 
