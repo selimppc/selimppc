@@ -44,10 +44,10 @@ You can find me here 👇
 
 ## ⚡ Fun Fact About Me
 
-🗣 I speak four languages — Bangla, and English.
+🗣 I speak two languages — Bangla, and English.
 
 
-☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
+☕ I enjoy my coffee, whether it's summer or winter!
 
 🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
 
