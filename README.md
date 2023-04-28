@@ -22,15 +22,11 @@
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
 -->
 
-I am a dynamic and accomplished Software Engineer with a strong focus on backend development and full-stack expertise. Throughout my career, I have been dedicated to delivering high-quality, scalable, and secure software solutions that meet business objectives and drive innovation.
+As an innovative and versatile Software Engineer with expertise in backend and full-stack development, I excel in crafting scalable, efficient, and clean software solutions that drive growth and technological advancements. With extensive experience in PHP, Python, ReactJs, and Java, I tackle diverse challenges and contribute to a wide range of projects, utilizing best practices in system design, code design patterns, and algorithms. 
 
-My experience spans a wide range of technologies, including PHP (Symfony), Python (Flask, FastAPI, DRF), ReactJs (NextJs), and Java Spring Boot. This diverse technical background has allowed me to excel in various roles and adapt quickly to new challenges. I have a keen eye for detail and a commitment to staying up-to-date with the latest industry trends, ensuring that my skills remain relevant and valuable.
+My ability to handle high-concurrency requests and traffic balance enables me to deliver exceptional results for high-load applications. Strong communication and teamwork skills allow me to work effectively in cross-functional teams, fostering productive relationships with colleagues and stakeholders. 
 
-In addition to my technical prowess, I possess strong communication and teamwork skills, enabling me to work effectively in cross-functional teams and establish productive relationships with colleagues and stakeholders. I am a proactive problem-solver, always ready to take on new challenges and learn from my experiences.
-
-I am passionate about giving back to the tech community by sharing my knowledge and insights through mentorship, blog articles, and participation in developer forums. I am always eager to connect with like-minded professionals who share my passion for technology, innovation, and continuous growth.
-
-Feel free to reach out to discuss potential collaboration, share insights, or explore exciting opportunities within the tech industry. Let's innovate together and shape the future of technology!
+I am dedicated to continuous learning, knowledge-sharing, and active participation in the tech community. Eager to explore international opportunities, I seek collaborations with like-minded professionals to jointly drive innovation and shape the future of technology.
 
 You can find me here 👇
 
