@@ -22,11 +22,11 @@
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
 -->
 
-As an innovative and versatile Software Engineer with expertise in backend and full-stack development, I excel in crafting scalable, efficient, and clean software solutions that drive growth and technological advancements. With extensive experience in PHP, Python, ReactJs, and Java, I tackle diverse challenges and contribute to a wide range of projects, utilizing best practices in system design, code design patterns, and algorithms. 
+As a dedicated Software Engineer, my specialty lies in backend development, microservices, and infrastructure automation. My toolbox includes PHP, Python, Java, AWS, and Terraform, backed by practical experience in frontend technologies such as ReactJS and AngularJS. 
 
-My ability to handle high-concurrency requests and traffic balance enables me to deliver exceptional results for high-load applications. Strong communication and teamwork skills allow me to work effectively in cross-functional teams, fostering productive relationships with colleagues and stakeholders. 
+I take pride in developing software solutions that are efficient, scalable, and impactful. Known for my problem-solving skills, I relish the opportunity to tackle complex challenges and produce innovative outcomes. Equipped with strong collaboration abilities, I believe in teamwork and shared knowledge as drivers of success. 
 
-I am dedicated to continuous learning, knowledge-sharing, and active participation in the tech community. Eager to explore international opportunities, I seek collaborations with like-minded professionals to jointly drive innovation and shape the future of technology.
+As I aspire to expand my horizons, I am keen on exploring opportunities that allow me to further apply my skills in international environments. I look forward to forging new professional relationships to collaboratively innovate and shape the future of technology.
 
 You can find me here 👇
 
