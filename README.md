@@ -22,11 +22,9 @@
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
 -->
 
-As a dedicated Software Engineer, my specialty lies in backend development, microservices, and infrastructure automation. My toolbox includes PHP, Python, Java, AWS, and Terraform, backed by practical experience in frontend technologies such as ReactJS and AngularJS. 
+I am a passionate Backend Engineer with a knack for creating efficient, scalable, and impactful software solutions. My expertise lies in PHP, Python, AWS, and Terraform with a special focus on microservices and Keycloak. I also have a strong background in Java, Keycloak, Node.js, ReactJS, AngularJS & AWS Enthusiast. 
 
-I take pride in developing software solutions that are efficient, scalable, and impactful. Known for my problem-solving skills, I relish the opportunity to tackle complex challenges and produce innovative outcomes. Equipped with strong collaboration abilities, I believe in teamwork and shared knowledge as drivers of success. 
-
-As I aspire to expand my horizons, I am keen on exploring opportunities that allow me to further apply my skills in international environments. I look forward to forging new professional relationships to collaboratively innovate and shape the future of technology.
+I enjoy the thrill of solving complex problems and delivering innovative outcomes. My belief in the power of teamwork and shared knowledge drives me to collaborate effectively and learn continuously. I am always on the lookout for opportunities to apply my skills in new environments and to forge professional relationships that foster innovation and technological advancement.
 
 You can find me here 👇
 
