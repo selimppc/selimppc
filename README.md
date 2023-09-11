@@ -1,3 +1,48 @@
+Hi, I'm Selim Reza 👋
+
+Selim's Profile Picture
+
+I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js, Keycloak IAM, NodeJs, Terraform, and AWS. With years of experience in the tech industry, I have a proven track record of creating efficient, scalable, and impactful software solutions. I thrive on solving complex problems and delivering innovative outcomes.
+
+🔗 Connect with me:
+
+    LinkedIn
+    GitHub
+    StackOverflow
+
+🛠️ Skills
+
+    Languages: PHP, Python, Java, React Js, NodeJs
+    Technologies: Keycloak IAM, Terraform, AWS
+    Databases: (Any databases you've worked with)
+    Tools: (Any tools or software you frequently use)
+
+💼 Work Experience
+
+    Sr. Software Engineer at Bongo | Stellar Digital Ltd (08/2019 - Present)
+        Spearheaded the design and implementation of microservices.
+        Standardized API development.
+        Utilized ElasticSearch for efficient content search.
+        Worked extensively with PHP, Python, Java, Node.js, and Keycloak.
+
+(Add other work experiences similarly)
+🎓 Education
+
+    MBA from NSU (2017-2020)
+    Masters in Mathematics and ICT from I.U. (2011-2013)
+
+🌐 Languages
+
+    Bangla: Native or Bilingual Proficiency
+    English: Full Professional Proficiency
+
+🌟 Fun Facts
+
+    🗣 I speak two languages — Bangla and English.
+    ☕ I enjoy my coffee, whether it's summer or winter!
+    🤓 I am a life-long learner. Finding ways to solve problems excites me.
+
+
 
 # Hi, I'm Selim Reza <img src="https://avatars.githubusercontent.com/u/7763876?v=4" width="35px">
 
