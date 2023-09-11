@@ -4,18 +4,17 @@ I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js
 
 🔗 Connect with me:
 
-    <div align="center">
-        <a href="https://www.linkedin.com/in/selimppc/">
-            <img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="LinkedIn">
-        </a>
-        <a href="https://www.github.com/selimppc/">
-            <img src="https://img.shields.io/badge/-github-F3F7FA?logo=github&logoColor=1F2328&style=for-the-badge&logoWidth=30" alt="Github">
-        </a>
-        <a href="https://stackoverflow.com/users/2334668/selim-reza">
-            <img src="https://img.shields.io/badge/-stackoverflow-F3F7FA?logo=stackoverflow&logoColor=f48024&style=for-the-badge&logoWidth=30" alt="StackOverflow">
-        </a>
-        
-    </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/selimppc/">
+<img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="LinkedIn">
+</a>
+<a href="https://www.github.com/selimppc/">
+<img src="https://img.shields.io/badge/-github-F3F7FA?logo=github&logoColor=1F2328&style=for-the-badge&logoWidth=30" alt="Github">
+</a>
+<a href="https://stackoverflow.com/users/2334668/selim-reza">
+<img src="https://img.shields.io/badge/-stackoverflow-F3F7FA?logo=stackoverflow&logoColor=f48024&style=for-the-badge&logoWidth=30" alt="StackOverflow">
+</a>
+</div>
 
 🛠️ Skills
 
