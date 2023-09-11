@@ -18,10 +18,10 @@ I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js
 
 ## 🛠️ Skills
 
-    Languages: PHP, Python, Java, React Js, NodeJs
-    Technologies: Keycloak IAM, Terraform, AWS
-    Databases: (Any databases you've worked with)
-    Tools: (Any tools or software you frequently use)
+    Languages    : PHP, Python, Java, React Js, NodeJs
+    Technologies : Keycloak IAM, Terraform, AWS
+    Databases    : PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch
+    Tools        : Docker, Gitlab CI/CD, SonarQube
 
 ## 💼 Work Experience
 
@@ -59,7 +59,7 @@ I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js
         * Created comprehensive reports utilizing iReport and JasperServer, offering valuable insights and data-driven decision-making capabilities
 
         Worked extensively with: 
-            Tomcat · Yii · MySQL · Jasper Reports · PHP · JavaScriptSkills: Tomcat · Yii · MySQL · Jasper Reports · PHP · JavaScript
+            Tomcat · Yii · MySQL · Jasper Reports · PHP · JavaScript
 
 
 
