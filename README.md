@@ -1,14 +1,21 @@
-Hi, I'm Selim Reza 👋
-
-Selim's Profile Picture
+# Hi, I'm Selim Reza <img src="https://avatars.githubusercontent.com/u/7763876?v=4" width="35px"> 👋
 
 I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js, Keycloak IAM, NodeJs, Terraform, and AWS. With years of experience in the tech industry, I have a proven track record of creating efficient, scalable, and impactful software solutions. I thrive on solving complex problems and delivering innovative outcomes.
 
 🔗 Connect with me:
 
-    LinkedIn
-    GitHub
-    StackOverflow
+    <div align="center">
+        <a href="https://www.linkedin.com/in/selimppc/">
+            <img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="LinkedIn">
+        </a>
+        <a href="https://www.github.com/selimppc/">
+            <img src="https://img.shields.io/badge/-github-F3F7FA?logo=github&logoColor=1F2328&style=for-the-badge&logoWidth=30" alt="Github">
+        </a>
+        <a href="https://stackoverflow.com/users/2334668/selim-reza">
+            <img src="https://img.shields.io/badge/-stackoverflow-F3F7FA?logo=stackoverflow&logoColor=f48024&style=for-the-badge&logoWidth=30" alt="StackOverflow">
+        </a>
+        
+    </div>
 
 🛠️ Skills
 
