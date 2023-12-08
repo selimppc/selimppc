@@ -2,6 +2,12 @@
 
 I am a passionate Backend Engineer with expertise in PHP, Python, Java, React Js, Keycloak IAM, NodeJs, Terraform, and AWS. With years of experience in the tech industry, I have a proven track record of creating efficient, scalable, and impactful software solutions. I thrive on solving complex problems and delivering innovative outcomes.
 
+As a seasoned Engineer with a deep-rooted passion for designing and tailoring sophisticated software systems and architectures, I thrive on diving into the mechanics of systems to enhance customer experience, software quality, and operational efficiency.
+
+With a focus on leadership and collaborative growth, I steer teams toward achieving excellence in software development. My customer-first approach ensures our solutions go beyond meeting to exceeding expectations in performance and functionality.
+
+Beyond the realms of engineering, I love to travel and explore different cultures. My interests include reading various types of books, making new friends, and enjoying outdoor games. These hobbies not only enrich my life but also enhance my professional work with new ideas and creativity.
+
 ## 🔗 Connect with me:
 
 <div align="center">
