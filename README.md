@@ -2,7 +2,7 @@
 
 Highly experienced Software Engineer with over 10 years in backend development and DevOps. Skilled in Java, Python, and PHP, with extensive experience building scalable microservices, robust applications, and efficient CI/CD pipelines. Proficient in Terraform and cloud infrastructure (AWS). Passionate about developing high-performance, reliable software solutions and seeking opportunities to contribute to a dynamic, innovative team.
 
-## Software Engineering:
+### Software Engineering:
 
     Programming Languages : Java (Spring Boot), Python (FastAPI, Django), PHP (Symfony, Laravel)
     Databases : MySQL, PostgreSQL
@@ -10,7 +10,7 @@ Highly experienced Software Engineer with over 10 years in backend development a
     Frontend Technologies : React.js (Next.js)
     Identity Management : Keycloak IAM
 
-## Cloud and DevOps:
+### Cloud and DevOps:
 
     Cloud Platforms : AWS, Google Cloud Platform
     Infrastructure as Code : Terraform
