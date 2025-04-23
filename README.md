@@ -1,6 +1,21 @@
 # Hi, I'm Selim Reza <img src="https://avatars.githubusercontent.com/u/7763876?v=4" width="35px"> 👋
 
-I am a passionate Software Engineer with over 10 years of experience in backend development, DevOps, and cloud infrastructure. My expertise includes building scalable microservices, automating infrastructure with Terraform, and deploying cloud-native solutions on AWS and Kubernetes. I thrive on solving complex technical challenges and driving innovative projects. Currently open to opportunities in dynamic organizations where I can contribute to impactful systems and grow as a technology leader.
+Highly experienced Software Engineer with over 10 years in backend development and DevOps. Skilled in Java, Python, and PHP, with extensive experience building scalable microservices, robust applications, and efficient CI/CD pipelines. Proficient in Terraform and cloud infrastructure (AWS). Passionate about developing high-performance, reliable software solutions and seeking opportunities to contribute to a dynamic, innovative team.
+
+## Software Engineering:
+Programming Languages : Java (Spring Boot), Python (FastAPI, Django), PHP (Symfony, Laravel)
+Databases : MySQL, PostgreSQL
+Caching Systems : Redis, Infinispan
+Frontend Technologies : React.js (Next.js)
+Identity Management : Keycloak IAM
+
+## Cloud and DevOps:
+
+Cloud Platforms : AWS, Google Cloud Platform
+Infrastructure as Code : Terraform
+Containers & Orchestration : Docker, Kubernetes
+CI/CD Tools : GitLab CI/CD, Kubernetes with Canary Deployment (Argo Rollouts)
+Data Engineering : Apache Airflow, ElasticSearch
 
 ## 🎓 Education
 
