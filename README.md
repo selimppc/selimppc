@@ -4,27 +4,19 @@ Highly experienced Software Engineer with over 10 years in backend development a
 
 ## Software Engineering:
 
-Programming Languages : Java (Spring Boot), Python (FastAPI, Django), PHP (Symfony, Laravel)
-
-Databases : MySQL, PostgreSQL
-
-Caching Systems : Redis, Infinispan
-
-Frontend Technologies : React.js (Next.js)
-
-Identity Management : Keycloak IAM
+    Programming Languages : Java (Spring Boot), Python (FastAPI, Django), PHP (Symfony, Laravel)
+    Databases : MySQL, PostgreSQL
+    Caching Systems : Redis, Infinispan
+    Frontend Technologies : React.js (Next.js)
+    Identity Management : Keycloak IAM
 
 ## Cloud and DevOps:
 
-Cloud Platforms : AWS, Google Cloud Platform
-
-Infrastructure as Code : Terraform
-
-Containers & Orchestration : Docker, Kubernetes
-
-CI/CD Tools : GitLab CI/CD, Kubernetes with Canary Deployment (Argo Rollouts)
-
-Data Engineering : Apache Airflow, ElasticSearch
+    Cloud Platforms : AWS, Google Cloud Platform
+    Infrastructure as Code : Terraform
+    Containers & Orchestration : Docker, Kubernetes
+    CI/CD Tools : GitLab CI/CD, Kubernetes with Canary Deployment (Argo Rollouts)
+    Data Engineering : Apache Airflow, ElasticSearch
 
 ## 🎓 Education
 
