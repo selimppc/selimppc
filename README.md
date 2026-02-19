@@ -4,13 +4,15 @@ Full-stack engineer with 11+ years of experience building high-traffic platforms
 
 
 ### TECHNICAL SKILLS
-Backend: PHP (Laravel, Symfony), Java (Spring Boot, Hibernate, JPA), Python (Flask, FastAPI), Node.js (NestJS)
-Frontend: React.js, Next.js, AngularJS, HTML/CSS, Tailwind
-Databases: MySQL, PostgreSQL, Redis, Elasticsearch, Vector Databases
-Messaging: Apache Kafka, RabbitMQ, Celery
-Cloud, DevOps: AWS (EKS, S3, EC2, RDS), Terraform, Kubernetes, Docker, GitLab CI CD, Jenkins
-Architecture: Microservices, DDD, Event-Driven, Strangler Pattern, RESTful APIs, OAuth2, Keycloak
-Data, Analytics: Apache Airflow, Pandas, ETL Pipelines, Youbora Analytics
+
+
+    Backend: PHP (Laravel, Symfony), Java (Spring Boot, Hibernate, JPA), Python (Flask, FastAPI), Node.js (NestJS)
+    Frontend: React.js, Next.js, AngularJS, HTML/CSS, Tailwind
+    Databases: MySQL, PostgreSQL, Redis, Elasticsearch, Vector Databases
+    Messaging: Apache Kafka, RabbitMQ, Celery
+    Cloud, DevOps: AWS (EKS, S3, EC2, RDS), Terraform, Kubernetes, Docker, GitLab CI CD, Jenkins
+    Architecture: Microservices, DDD, Event-Driven, Strangler Pattern, RESTful APIs, OAuth2, Keycloak
+    Data, Analytics: Apache Airflow, Pandas, ETL Pipelines, Youbora Analytics
 
 
 ## 🎓 Education
