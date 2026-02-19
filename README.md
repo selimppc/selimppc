@@ -1,45 +1,16 @@
 # Hi, I'm Selim Reza <img src="https://avatars.githubusercontent.com/u/7763876?v=4" width="35px"> 👋
 
-At Impel IT Solutions, our team is driven by a mission to transform user requirements into powerful and reliable software solutions, with a core focus on supporting the Holland Watch Group system. Leveraging my expertise in PHP, Java, Python and full-stack development, I have crafted monolithic services for large eCommerce systems, including POS, Payment system and built microservices that power a secure, scalable, and resilient backend architecture. My responsibilities extend beyond code deployment—I actively mentor team members and foster a culture of continuous learning and collaboration. This approach strengthens our team's technical capabilities and promotes long-term professional growth. 
-With hands-on proficiency in AWS (EKS), Terraform, and Infrastructure as Code (IaC), I ensure seamless CI/CD workflows, zero-downtime deployments, and robust canary release strategies. Data integrity and system security remain central to everything we build. Together, we're focused on driving innovation in e-commerce and enhancing provider workflows through intelligent, forward-looking technology solutions.
+Full-stack engineer with 11+ years of experience building high-traffic platforms across AdTech, OTT streaming, payment gateways, and e-commerce. Guided teams of 5–10 engineers, architected microservices handling millions of daily requests, and drove legacy-to-modern migrations with zero downtime. Deep expertise in PHP (Laravel/Symfony), Java (Spring Boot), Node.js, React, and AWS cloud infrastructure (EKS, Terraform, CI/CD). Proven ability to reduce system latency, improve deployment velocity, and deliver secure, scalable software that drives business outcomes.
 
 
-### Languages & Frameworks
-    Backend: PHP (Laravel, Symfony), Java (Spring Boot), Python (Flask, Fast API), Node.js (Nest)
-    Frontend: React js, Next js, Angular Js
-
-### Cloud & Infrastructure
-    AWS: Lambda (serverless), API Gateway, EC2/EKS, S3, RDS/DynamoDB, CloudWatch, CloudFormation
-    Containerization & Orchestration: Docker, Kubernetes (EKS, self-managed), Helm
-    Infrastructure as Code: Terraform, AWS CDK
-
-### Databases & Caching
-    Relational: MySQL, PostgreSQL
-    NoSQL: MongoDB, Redis
-    Search & Analytics: Elasticsearch
-
-### Messaging & Streaming
-    RabbitMQ, Apache Kafka
-
-### CI/CD & Automation
-    GitLab CI/CD
-    Build tools: Maven, Gradle, npm/Yarn
-    Test automation: PHPUnit, JUnit, PyTest, Jest, Mocha
-
-### Monitoring, Logging & Observability
-    Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
-    AWS CloudWatch, New Relic, Datadog
-
-### Security & Best Practices
-    OAuth2/OpenID Connect (Keycloak)
-    API security (JWT, rate limiting, validation)
-    Test-driven development, code reviews, automated security scans
-
-### Version Control & Collaboration
-    Git (GitLab/GitHub/Bitbucket workflows)
-
-### Agile tools: 
-    Jira, Confluence, Trello
+### TECHNICAL SKILLS
+Backend: PHP (Laravel, Symfony), Java (Spring Boot, Hibernate, JPA), Python (Flask, FastAPI), Node.js (NestJS)
+Frontend: React.js, Next.js, AngularJS, HTML/CSS, Tailwind
+Databases: MySQL, PostgreSQL, Redis, Elasticsearch, Vector Databases
+Messaging: Apache Kafka, RabbitMQ, Celery
+Cloud, DevOps: AWS (EKS, S3, EC2, RDS), Terraform, Kubernetes, Docker, GitLab CI CD, Jenkins
+Architecture: Microservices, DDD, Event-Driven, Strangler Pattern, RESTful APIs, OAuth2, Keycloak
+Data, Analytics: Apache Airflow, Pandas, ETL Pipelines, Youbora Analytics
 
 
 ## 🎓 Education
